@@ -2,7 +2,7 @@
 
 ## 🇪🇸 Detrás del código
 
-Soy Sergio Cobos Blanco, ingeniero de Robótica Software y desarrollador apasionado por el diseño y desarrollo de software que conecte el mundo digital con lo físico.
+Soy Sergio Cobos Blanco, ingeniero de Robótica Software por la Universidad Rey Juan Carlos y desarrollador apasionado por el diseño y desarrollo de software que conecte el mundo digital con lo físico.
 
 Lo que más me motiva es trabajar en tecnología que no se quede solo en una pantalla, sino que pueda aportar algo útil a las personas y a la sociedad.
 
@@ -10,7 +10,7 @@ Curioso, perseverante y bastante cabezota cuando algo no funciona. Programador d
 
 ## 🇬🇧 Behind the code
 
-I’m Sergio Cobos Blanco, a Robotics Software Engineer and a developer passionate about designing and building software that connects the digital world with the physical one.
+I’m Sergio Cobos Blanco, a Robotics Software Engineer from Universidad Rey Juan Carlos and a developer passionate about designing and building software that connects the digital world with the physical one.
 
 What motivates me most is working on technology that goes beyond the screen and can bring something useful to people and society.
 
