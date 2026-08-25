@@ -27,7 +27,7 @@ Curious, persistent, and fairly stubborn when something refuses to work. A progr
   <img alt="And more" src="https://img.shields.io/badge/and_more...-555555?style=for-the-badge">
 </p>
 
-## Some of projects
+## Some of my projects
 
 - [Autonomous system for social robots](https://github.com/geriabot/attention_system)
 
