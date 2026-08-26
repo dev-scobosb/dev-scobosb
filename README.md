@@ -29,7 +29,7 @@ Curious, persistent, and fairly stubborn when something refuses to work. A progr
 
 ## Some of my projects
 
-- [Autonomous attention a system for social robots](https://github.com/geriabot/attention_system)
+- [Autonomous attention system for social robots](https://github.com/geriabot/attention_system)
 
 ## Find me
 
