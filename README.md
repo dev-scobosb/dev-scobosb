@@ -30,6 +30,7 @@ Curious, persistent, and fairly stubborn when something refuses to work. A progr
 ## Some of my projects
 
 - [Autonomous attention system for social robots](https://github.com/geriabot/attention_system)
+- [Brutus robot](https://github.com/Sons-of-Brutus/Robot_Brutus)
 
 ## Find me
 
